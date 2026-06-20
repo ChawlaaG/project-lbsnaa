@@ -1,0 +1,402 @@
+Headers: application/xml
+FOUND BROKEN TITLE (utf8): Four PREPAK (PRO) militants arrested in Manipur
+  -> REVERSED: Four PREPAK (PRO) militants arrested in Manipur
+FOUND BROKEN TITLE (utf8): J&K police secure non-bailable warrants against 4 Hizbul ‘commanders’, including chief Salahuddin
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "J&K police secure non-bailable warrants against 4 Hizbul ‘commanders’, including chief Salahuddin"
+FOUND BROKEN TITLE (utf8): Watch: Shashi Tharoor: What Kerala can learn from the rest of the world
+  -> REVERSED: Watch: Shashi Tharoor: What Kerala can learn from the rest of the world
+FOUND BROKEN TITLE (utf8): The Inverse Law of AI: How capital rises as responsibility falls
+  -> REVERSED: The Inverse Law of AI: How capital rises as responsibility falls
+FOUND BROKEN TITLE (utf8): India and EU to give each other Most Favoured Nation status for 5 years, draft trade deal shows
+  -> REVERSED: India and EU to give each other Most Favoured Nation status for 5 years, draft trade deal shows
+FOUND BROKEN TITLE (utf8): ‘Hidden camera’ found in bathroom of TISS-Guwahati girls’ hostel, probe underway
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "‘Hidden camera’ found in bathroom of TISS-Guwahati girls’ hostel, probe underway"
+FOUND BROKEN TITLE (utf8): In Friday sermon, Mirwaiz expresses concern over ‘worrying’ situation in Palestine, Iran, Afghanistan
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "In Friday sermon, Mirwaiz expresses concern over ‘worrying’ situation in Palestine, Iran, Afghanistan"
+FOUND BROKEN TITLE (utf8): Congress chose appeasement over nation by truncating Vande Mataram, says Haryana CM Saini
+  -> REVERSED: Congress chose appeasement over nation by truncating Vande Mataram, says Haryana CM Saini
+FOUND BROKEN TITLE (utf8): Surrendered Maoists attend Chhattisgarh Assembly proceedings
+  -> REVERSED: Surrendered Maoists attend Chhattisgarh Assembly proceedings
+FOUND BROKEN TITLE (utf8): Kejriwal’s release exposed high handedness of investigative agencies: Mehbooba Mufti
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "Kejriwal’s release exposed high handedness of investigative agencies: Mehbooba Mufti"
+FOUND BROKEN TITLE (utf8): BJP-AGP poll deal likely by March 10: Assam CM Himanta
+  -> REVERSED: BJP-AGP poll deal likely by March 10: Assam CM Himanta
+FOUND BROKEN TITLE (utf8): Over 50,000 graduands receive degrees at TN Dr. MGR Medical University Convocation
+  -> REVERSED: Over 50,000 graduands receive degrees at TN Dr. MGR Medical University Convocation
+FOUND BROKEN TITLE (utf8): Odisha police’s final push to bring CPI (Maoist) insurgency to end
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "Odisha police’s final push to bring CPI (Maoist) insurgency to end"
+FOUND BROKEN TITLE (utf8): Japan will connect Northeast India to the Bay of Bengal: Dy Foreign Minister Horii Iwao
+  -> REVERSED: Japan will connect Northeast India to the Bay of Bengal: Dy Foreign Minister Horii Iwao
+FOUND BROKEN TITLE (utf8): Aralam elephant attack: KPCC chief seeks aid for victim’s family
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "Aralam elephant attack: KPCC chief seeks aid for victim’s family"
+FOUND BROKEN TITLE (utf8): District panchayat Budget proposes jobs for 5,000 women
+  -> REVERSED: District panchayat Budget proposes jobs for 5,000 women
+FOUND BROKEN TITLE (utf8): A double murder in ‘mini Russia’
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "A double murder in ‘mini Russia’"
+FOUND BROKEN TITLE (utf8): DMK holds seat sharing talks with CPI (M), CPI, KMDK
+  -> REVERSED: DMK holds seat sharing talks with CPI (M), CPI, KMDK
+FOUND BROKEN TITLE (utf8): Freeze Mango symbol: S. Ramadoss to ECI
+  -> REVERSED: Freeze Mango symbol: S. Ramadoss to ECI
+FOUND BROKEN TITLE (utf8): Anbumani lauds makers of Marathi film Asha
+  -> REVERSED: Anbumani lauds makers of Marathi film Asha
+FOUND BROKEN TITLE (utf8): Tenth Chiefs’ Conclave bats for future preparedness, wisdom sharing
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "Tenth Chiefs’ Conclave bats for future preparedness, wisdom sharing"
+FOUND BROKEN TITLE (utf8): As J&K nears Ranji Trophy win, Omar heads to Karnataka to cheer for the home team; BJP and PDP extend support
+  -> REVERSED: As J&K nears Ranji Trophy win, Omar heads to Karnataka to cheer for the home team; BJP and PDP extend support
+FOUND BROKEN TITLE (utf8): Amit Shah concludes his three-day visit to Bihar’s Seemanchal
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "Amit Shah concludes his three-day visit to Bihar’s Seemanchal"
+FOUND BROKEN TITLE (utf8): Kochi Corporation Budget approved amid Opposition boycott
+  -> REVERSED: Kochi Corporation Budget approved amid Opposition boycott
+FOUND BROKEN TITLE (utf8): Trinamool nominates former DGP, Supreme Court lawyer to Rajya Sabha
+  -> REVERSED: Trinamool nominates former DGP, Supreme Court lawyer to Rajya Sabha
+FOUND BROKEN TITLE (utf8): Tamil Nadu launches its first Dark Sky Park in Kolli Hills for stargazing
+  -> REVERSED: Tamil Nadu launches its first Dark Sky Park in Kolli Hills for stargazing
+FOUND BROKEN TITLE (utf8): MCC would be strictly implemented in Tamil Nadu against poll inducements, says CEC Gyanesh Kumar
+  -> REVERSED: MCC would be strictly implemented in Tamil Nadu against poll inducements, says CEC Gyanesh Kumar
+FOUND BROKEN TITLE (utf8): Narratives centering hope after suicide attempt can increase help-seeking, say experts
+  -> REVERSED: Narratives centering hope after suicide attempt can increase help-seeking, say experts
+FOUND BROKEN TITLE (utf8): Dust, bottlenecks and stench greet Srinivagilu Road commuters as white-topping works drag on
+  -> REVERSED: Dust, bottlenecks and stench greet Srinivagilu Road commuters as white-topping works drag on
+FOUND BROKEN TITLE (utf8): India to share info on cybercrime investigation, call centre scams with U.K.
+  -> REVERSED: India to share info on cybercrime investigation, call centre scams with U.K.
+FOUND BROKEN TITLE (utf8): AIDWA supports Anganwadi workers’ strike in Ongole
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "AIDWA supports Anganwadi workers’ strike in Ongole"
+FOUND BROKEN TITLE (utf8): Food safety officials inspect milk supply chain in SPSR Nellore district
+  -> REVERSED: Food safety officials inspect milk supply chain in SPSR Nellore district
+FOUND BROKEN TITLE (utf8): Cohere Health opens GCC, plans to hire more
+  -> REVERSED: Cohere Health opens GCC, plans to hire more
+FOUND BROKEN TITLE (utf8): Belgian firm Itineris’ global tech, innovation hub opened in Hyderabad
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "Belgian firm Itineris’ global tech, innovation hub opened in Hyderabad"
+FOUND BROKEN TITLE (utf8): Mallu Bhatti Vikramarka visits Andhra Ratna Bhavan
+  -> REVERSED: Mallu Bhatti Vikramarka visits Andhra Ratna Bhavan
+FOUND BROKEN TITLE (utf8): GVMC to relocate 448 water pipelines passing through drains
+  -> REVERSED: GVMC to relocate 448 water pipelines passing through drains
+FOUND BROKEN TITLE (utf8): Women to move from drudgery to decision-making in agriculture: Union Agriculture Secretary
+  -> REVERSED: Women to move from drudgery to decision-making in agriculture: Union Agriculture Secretary
+FOUND BROKEN TITLE (utf8): For many Telangana sweepers ₹2 lakh is annual salary
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "For many Telangana sweepers ₹2 lakh is annual salary"
+FOUND BROKEN TITLE (utf8): CPI(M) is fighting both TMC and BJP in West Bengal: M.A. Baby
+  -> REVERSED: CPI(M) is fighting both TMC and BJP in West Bengal: M.A. Baby
+FOUND BROKEN TITLE (utf8): JD(S) is the only regional force fighting for State’s interests, says Nikhil
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "JD(S) is the only regional force fighting for State’s interests, says Nikhil"
+FOUND BROKEN TITLE (utf8): Three workers faint at a private tannery unit in Tirupattur
+  -> REVERSED: Three workers faint at a private tannery unit in Tirupattur
+FOUND BROKEN TITLE (utf8): Tribal Affairs Ministry set to revamp forest rights cells, form ‘one-stop’ coordinating units
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "Tribal Affairs Ministry set to revamp forest rights cells, form ‘one-stop’ coordinating units"
+FOUND BROKEN TITLE (utf8): Allahabad High Court grants interim protection to Swami Avimukteshwaranand in POCSO case
+  -> REVERSED: Allahabad High Court grants interim protection to Swami Avimukteshwaranand in POCSO case
+FOUND BROKEN TITLE (utf8): O. Panneerselvam: A man undone by his own decisions
+  -> REVERSED: O. Panneerselvam: A man undone by his own decisions
+FOUND BROKEN TITLE (utf8): PM Modi to launch nationwide HPV vaccination drive on February 28
+  -> REVERSED: PM Modi to launch nationwide HPV vaccination drive on February 28
+FOUND BROKEN TITLE (utf8): SC Collegium recommends Justice Lisa Gill as Chief Justice of A.P. High Court
+  -> REVERSED: SC Collegium recommends Justice Lisa Gill as Chief Justice of A.P. High Court
+FOUND BROKEN TITLE (utf8): Arvind Kejriwal’s court discharge a blow to Union government: Kerala Chief Minister
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "Arvind Kejriwal’s court discharge a blow to Union government: Kerala Chief Minister"
+FOUND BROKEN TITLE (utf8): Restoration of Domakonda palace fuels weaving, literature and community life
+  -> REVERSED: Restoration of Domakonda palace fuels weaving, literature and community life
+FOUND BROKEN TITLE (utf8): Need to strike a balance, says Supreme Court on SHANTI Act petition
+  -> REVERSED: Need to strike a balance, says Supreme Court on SHANTI Act petition
+FOUND BROKEN TITLE (utf8): Climate change could restrict habitat availability for Western Ghats birds such as The Nilgiri Wood Pigeon, warn researchers
+  -> REVERSED: Climate change could restrict habitat availability for Western Ghats birds such as The Nilgiri Wood Pigeon, warn researchers
+FOUND BROKEN TITLE (utf8): Grey areas persist as key audit gaps surface in Hyderabad Metro Phase‑I buyout
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "Grey areas persist as key audit gaps surface in Hyderabad Metro Phase‑I buyout"
+FOUND BROKEN TITLE (utf8): CPI(M) opposes land allotment to Adani for ‘Google’ Data Centre in Visakhapatnam
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "CPI(M) opposes land allotment to Adani for ‘Google’ Data Centre in Visakhapatnam"
+FOUND BROKEN TITLE (utf8): Kalamassery municipality told to complete biomining at dumping yard in a time-bound manner
+  -> REVERSED: Kalamassery municipality told to complete biomining at dumping yard in a time-bound manner
+FOUND BROKEN TITLE (utf8): Didn’t pay influencers to oppose AI Summit, says Congress
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "Didn’t pay influencers to oppose AI Summit, says Congress"
+FOUND BROKEN TITLE (utf8): ASHA workers protest seeking honorarium hike and halt to retrenchment
+  -> REVERSED: ASHA workers protest seeking honorarium hike and halt to retrenchment
+FOUND BROKEN TITLE (utf8): Karnataka launches action plan on snakebite and rabies; aims to cut snakebite deaths by half, end dog-related rabies deaths by 2030
+  -> REVERSED: Karnataka launches action plan on snakebite and rabies; aims to cut snakebite deaths by half, end dog-related rabies deaths by 2030
+FOUND BROKEN TITLE (utf8): Apple farmers demand protection against import of fruits from U.S., to hold protest outside Parliament
+  -> REVERSED: Apple farmers demand protection against import of fruits from U.S., to hold protest outside Parliament
+FOUND BROKEN TITLE (utf8): Bicycle literacy campaign launched in women’s college
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "Bicycle literacy campaign launched in women’s college"
+FOUND BROKEN TITLE (utf8): Police book unknown motorcyclist for transporting explosives
+  -> REVERSED: Police book unknown motorcyclist for transporting explosives
+FOUND BROKEN TITLE (utf8): Habitual offender convicted for sexually assaulting 15-year-old boy
+  -> REVERSED: Habitual offender convicted for sexually assaulting 15-year-old boy
+FOUND BROKEN TITLE (utf8): Inflexible electricity grids causing ‘dangerous’ situations, says CEA chief
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "Inflexible electricity grids causing ‘dangerous’ situations, says CEA chief"
+FOUND BROKEN TITLE (utf8): Innovative solutions presented at ‘Agri Rural Ideathon 2026’
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "Innovative solutions presented at ‘Agri Rural Ideathon 2026’"
+FOUND BROKEN TITLE (utf8): Tollywood Celebrity Cricket League from February 28 in Vizag; entry free
+  -> REVERSED: Tollywood Celebrity Cricket League from February 28 in Vizag; entry free
+FOUND BROKEN TITLE (utf8): State’s first large-scale battery energy storage system to come up at Mylatti
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "State’s first large-scale battery energy storage system to come up at Mylatti"
+FOUND BROKEN TITLE (utf8): Karnataka HC orders removal of storm-water drain encroachments at Mantri Tranquil and Royal Palms if they don’t provide alternative course for drain
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "Karnataka HC orders removal of storm-water drain encroachments at Mantri Tranquil and Royal Palms if they don’t provide alternative course for drain"
+FOUND BROKEN TITLE (utf8): Singareni likely to explore 19 BCM of coal-bed methane
+  -> REVERSED: Singareni likely to explore 19 BCM of coal-bed methane
+FOUND BROKEN TITLE (utf8): Return Social Science textbook, delete online posts, NCERT tells public
+  -> REVERSED: Return Social Science textbook, delete online posts, NCERT tells public
+FOUND BROKEN TITLE (utf8): On the occasion of birthday, BSY vows to tour the length and breadth of State
+  -> REVERSED: On the occasion of birthday, BSY vows to tour the length and breadth of State
+FOUND BROKEN TITLE (utf8): Telangana Chief Minister meets recently surrendered former Maoist leaders
+  -> REVERSED: Telangana Chief Minister meets recently surrendered former Maoist leaders
+FOUND BROKEN TITLE (utf8): Case against Medicover Hospital for ‘negligence’ after dialysis patient dies
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "Case against Medicover Hospital for ‘negligence’ after dialysis patient dies"
+FOUND BROKEN TITLE (utf8): An intelligent and non-lethal solution to wildlife threat at ‘Agri Rural Ideathon 2026’
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "An intelligent and non-lethal solution to wildlife threat at ‘Agri Rural Ideathon 2026’"
+FOUND BROKEN TITLE (utf8): Webinar to discuss federalism and the Indian Republic on March 1
+  -> REVERSED: Webinar to discuss federalism and the Indian Republic on March 1
+FOUND BROKEN TITLE (utf8): Tahsildars not adhering to timeline leading to flood of litigations in court: Karnataka HC
+  -> REVERSED: Tahsildars not adhering to timeline leading to flood of litigations in court: Karnataka HC
+FOUND BROKEN TITLE (utf8): Chellanam reeling under acute drinking water crisis
+  -> REVERSED: Chellanam reeling under acute drinking water crisis
+FOUND BROKEN TITLE (utf8): FIR against Mallikarjun Mutya challenged in High Court
+  -> REVERSED: FIR against Mallikarjun Mutya challenged in High Court
+FOUND BROKEN TITLE (utf8): Kishan Reddy flags delays in HMR phase‑II DPR, says ‘rhetoric won’t get permissions’
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "Kishan Reddy flags delays in HMR phase‑II DPR, says ‘rhetoric won’t get permissions’"
+FOUND BROKEN TITLE (utf8): Little Flower Degree College to host district-level Viksit Bharat Youth Parliament on March 5
+  -> REVERSED: Little Flower Degree College to host district-level Viksit Bharat Youth Parliament on March 5
+FOUND BROKEN TITLE (utf8): Internal reservation likely to become a vexed issue in recruitment for 56,432 posts
+  -> REVERSED: Internal reservation likely to become a vexed issue in recruitment for 56,432 posts
+FOUND BROKEN TITLE (utf8): Woman killed, husband injured as speeding car hits them at Koothuparamba
+  -> REVERSED: Woman killed, husband injured as speeding car hits them at Koothuparamba
+FOUND BROKEN TITLE (utf8): CM directs MAUD dept. to leverage technology for timely completion of works
+  -> REVERSED: CM directs MAUD dept. to leverage technology for timely completion of works
+FOUND BROKEN TITLE (utf8): Andhra Pradesh, Telangana plan joint arrangements for Godavari Pushkarams
+  -> REVERSED: Andhra Pradesh, Telangana plan joint arrangements for Godavari Pushkarams
+FOUND BROKEN TITLE (utf8): Student bags bronze medal in Floristry
+  -> REVERSED: Student bags bronze medal in Floristry
+FOUND BROKEN TITLE (utf8): Independent panel sought to tackle ganja menace in A.P.
+  -> REVERSED: Independent panel sought to tackle ganja menace in A.P.
+FOUND BROKEN TITLE (utf8): Telangana launches ‘GI on Wheels’ to showcase handicrafts on buses
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "Telangana launches ‘GI on Wheels’ to showcase handicrafts on buses"
+FOUND BROKEN TITLE (utf8): Efforts on to re-enrol school dropouts from tribal communities in Wayanad
+  -> REVERSED: Efforts on to re-enrol school dropouts from tribal communities in Wayanad
+FOUND BROKEN TITLE (utf8): Govt.  challenges acquittal of Dileep, others  in actor rape case in HC
+  -> REVERSED: Govt.  challenges acquittal of Dileep, others  in actor rape case in HC
+FOUND BROKEN TITLE (utf8): Vizhinjam ‘seafood poisoning’: searching for marine algal toxins in fish becoming an onerous task, say officials
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "Vizhinjam ‘seafood poisoning’: searching for marine algal toxins in fish becoming an onerous task, say officials"
+FOUND BROKEN TITLE (utf8): Didn’t give consent for closure of case, say Ayesha Meera’s parents
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "Didn’t give consent for closure of case, say Ayesha Meera’s parents"
+FOUND BROKEN TITLE (utf8): PG medical: Fourth round begins 
+  -> REVERSED: PG medical: Fourth round begins 
+FOUND BROKEN TITLE (utf8): Bangalore University decides to extend village adoption to all its departments
+  -> REVERSED: Bangalore University decides to extend village adoption to all its departments
+FOUND BROKEN TITLE (utf8): Agriculture requires community wisdom along with tech solutions, says KSOU V-C
+  -> REVERSED: Agriculture requires community wisdom along with tech solutions, says KSOU V-C
+FOUND BROKEN TITLE (utf8): Kerala CM Pinarayi Vijayan will lead LDF’s Assembly poll campaign in Kerala, confirms CPI(M) PB
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "Kerala CM Pinarayi Vijayan will lead LDF’s Assembly poll campaign in Kerala, confirms CPI(M) PB"
+FOUND BROKEN TITLE (utf8): YSRCP leader alleges ₹100 crore land scam involving Collector, demands CBI inquiry
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "YSRCP leader alleges ₹100 crore land scam involving Collector, demands CBI inquiry"
+FOUND BROKEN TITLE (utf8): Four arrested, including bank officials, for facilitating mule accounts in cyber fraud case
+  -> REVERSED: Four arrested, including bank officials, for facilitating mule accounts in cyber fraud case
+FOUND BROKEN TITLE (utf8): NCERT Class VIII textbook: Kerala Minister welcomes SC intervention over references to ‘corruption’ in judiciary
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "NCERT Class VIII textbook: Kerala Minister welcomes SC intervention over references to ‘corruption’ in judiciary"
+FOUND BROKEN TITLE (utf8): Kumbalanghi panchayat Budget lays emphasis on housing project
+  -> REVERSED: Kumbalanghi panchayat Budget lays emphasis on housing project
+FOUND BROKEN TITLE (utf8): Arjun Pandian appointed Kasaragod Collector
+  -> REVERSED: Arjun Pandian appointed Kasaragod Collector
+FOUND BROKEN TITLE (utf8): NSS denies permission for security checks at Mannam Samadhi ahead of Vice-President’s visit
+  -> FAILED TO REVERSE: Invalid argument (string): Contains invalid characters.: "NSS denies permission for security checks at Mannam Samadhi ahead of Vice-President’s visit"
+FOUND BROKEN TITLE (utf8): HPV vaccination campaign to be launched on Feb. 28
+  -> REVERSED: HPV vaccination campaign to be launched on Feb. 28
+FOUND BROKEN TITLE (utf8): Tamil Nadu CM Stalin inaugurates Cuddalore-Madapattu section of State highway
+  -> REVERSED: Tamil Nadu CM Stalin inaugurates Cuddalore-Madapattu section of State highway
+=================
+FOUND BROKEN TITLE (response.body): Four PREPAK (PRO) militants arrested in Manipur
+  -> REVERSED: Four PREPAK (PRO) militants arrested in Manipur
+FOUND BROKEN TITLE (response.body): J&K police secure non-bailable warrants against 4 Hizbul âcommandersâ, including chief Salahuddin
+  -> REVERSED: J&K police secure non-bailable warrants against 4 Hizbul ‘commanders’, including chief Salahuddin
+FOUND BROKEN TITLE (response.body): Watch: Shashi Tharoor: What Kerala can learn from the rest of the world
+  -> REVERSED: Watch: Shashi Tharoor: What Kerala can learn from the rest of the world
+FOUND BROKEN TITLE (response.body): The Inverse Law of AI: How capital rises as responsibility falls
+  -> REVERSED: The Inverse Law of AI: How capital rises as responsibility falls
+FOUND BROKEN TITLE (response.body): India and EU to give each other Most Favoured Nation status for 5 years, draft trade deal shows
+  -> REVERSED: India and EU to give each other Most Favoured Nation status for 5 years, draft trade deal shows
+FOUND BROKEN TITLE (response.body): âHidden cameraâ found in bathroom of TISS-Guwahati girlsâ hostel, probe underway
+  -> REVERSED: ‘Hidden camera’ found in bathroom of TISS-Guwahati girls’ hostel, probe underway
+FOUND BROKEN TITLE (response.body): In Friday sermon, Mirwaiz expresses concern over âworryingâ situation in Palestine, Iran, Afghanistan
+  -> REVERSED: In Friday sermon, Mirwaiz expresses concern over ‘worrying’ situation in Palestine, Iran, Afghanistan
+FOUND BROKEN TITLE (response.body): Congress chose appeasement over nation by truncating Vande Mataram, says Haryana CM Saini
+  -> REVERSED: Congress chose appeasement over nation by truncating Vande Mataram, says Haryana CM Saini
+FOUND BROKEN TITLE (response.body): Surrendered Maoists attend Chhattisgarh Assembly proceedings
+  -> REVERSED: Surrendered Maoists attend Chhattisgarh Assembly proceedings
+FOUND BROKEN TITLE (response.body): Kejriwalâs release exposed high handedness of investigative agencies: Mehbooba Mufti
+  -> REVERSED: Kejriwal’s release exposed high handedness of investigative agencies: Mehbooba Mufti
+FOUND BROKEN TITLE (response.body): BJP-AGP poll deal likely by March 10: Assam CM Himanta
+  -> REVERSED: BJP-AGP poll deal likely by March 10: Assam CM Himanta
+FOUND BROKEN TITLE (response.body): Over 50,000 graduands receive degrees at TN Dr. MGR Medical University Convocation
+  -> REVERSED: Over 50,000 graduands receive degrees at TN Dr. MGR Medical University Convocation
+FOUND BROKEN TITLE (response.body): Odisha policeâs final push to bring CPI (Maoist) insurgency to end
+  -> REVERSED: Odisha police’s final push to bring CPI (Maoist) insurgency to end
+FOUND BROKEN TITLE (response.body): Japan will connect Northeast India to the Bay of Bengal: Dy Foreign Minister Horii Iwao
+  -> REVERSED: Japan will connect Northeast India to the Bay of Bengal: Dy Foreign Minister Horii Iwao
+FOUND BROKEN TITLE (response.body): Aralam elephant attack: KPCC chief seeks aid for victimâs family
+  -> REVERSED: Aralam elephant attack: KPCC chief seeks aid for victim’s family
+FOUND BROKEN TITLE (response.body): District panchayat Budget proposes jobs for 5,000 women
+  -> REVERSED: District panchayat Budget proposes jobs for 5,000 women
+FOUND BROKEN TITLE (response.body): A double murder in âmini Russiaâ
+  -> REVERSED: A double murder in ‘mini Russia’
+FOUND BROKEN TITLE (response.body): DMK holds seat sharing talks with CPI (M), CPI, KMDK
+  -> REVERSED: DMK holds seat sharing talks with CPI (M), CPI, KMDK
+FOUND BROKEN TITLE (response.body): Freeze Mango symbol: S. Ramadoss to ECI
+  -> REVERSED: Freeze Mango symbol: S. Ramadoss to ECI
+FOUND BROKEN TITLE (response.body): Anbumani lauds makers of Marathi film Asha
+  -> REVERSED: Anbumani lauds makers of Marathi film Asha
+FOUND BROKEN TITLE (response.body): Tenth Chiefsâ Conclave bats for future preparedness, wisdom sharing
+  -> REVERSED: Tenth Chiefs’ Conclave bats for future preparedness, wisdom sharing
+FOUND BROKEN TITLE (response.body): As J&K nears Ranji Trophy win, Omar heads to Karnataka to cheer for the home team; BJP and PDP extend support
+  -> REVERSED: As J&K nears Ranji Trophy win, Omar heads to Karnataka to cheer for the home team; BJP and PDP extend support
+FOUND BROKEN TITLE (response.body): Amit Shah concludes his three-day visit to Biharâs Seemanchal
+  -> REVERSED: Amit Shah concludes his three-day visit to Bihar’s Seemanchal
+FOUND BROKEN TITLE (response.body): Kochi Corporation Budget approved amid Opposition boycott
+  -> REVERSED: Kochi Corporation Budget approved amid Opposition boycott
+FOUND BROKEN TITLE (response.body): Trinamool nominates former DGP, Supreme Court lawyer to Rajya Sabha
+  -> REVERSED: Trinamool nominates former DGP, Supreme Court lawyer to Rajya Sabha
+FOUND BROKEN TITLE (response.body): Tamil Nadu launches its first Dark Sky Park in Kolli Hills for stargazing
+  -> REVERSED: Tamil Nadu launches its first Dark Sky Park in Kolli Hills for stargazing
+FOUND BROKEN TITLE (response.body): MCC would be strictly implemented in Tamil Nadu against poll inducements, says CEC Gyanesh Kumar
+  -> REVERSED: MCC would be strictly implemented in Tamil Nadu against poll inducements, says CEC Gyanesh Kumar
+FOUND BROKEN TITLE (response.body): Narratives centering hope after suicide attempt can increase help-seeking, say experts
+  -> REVERSED: Narratives centering hope after suicide attempt can increase help-seeking, say experts
+FOUND BROKEN TITLE (response.body): Dust, bottlenecks and stench greet Srinivagilu Road commuters as white-topping works drag on
+  -> REVERSED: Dust, bottlenecks and stench greet Srinivagilu Road commuters as white-topping works drag on
+FOUND BROKEN TITLE (response.body): India to share info on cybercrime investigation, call centre scams with U.K.
+  -> REVERSED: India to share info on cybercrime investigation, call centre scams with U.K.
+FOUND BROKEN TITLE (response.body): AIDWA supports Anganwadi workersâ strike in Ongole
+  -> REVERSED: AIDWA supports Anganwadi workers’ strike in Ongole
+FOUND BROKEN TITLE (response.body): Food safety officials inspect milk supply chain in SPSR Nellore district
+  -> REVERSED: Food safety officials inspect milk supply chain in SPSR Nellore district
+FOUND BROKEN TITLE (response.body): Cohere Health opens GCC, plans to hire more
+  -> REVERSED: Cohere Health opens GCC, plans to hire more
+FOUND BROKEN TITLE (response.body): Belgian firm Itinerisâ global tech, innovation hub opened in Hyderabad
+  -> REVERSED: Belgian firm Itineris’ global tech, innovation hub opened in Hyderabad
+FOUND BROKEN TITLE (response.body): Mallu Bhatti Vikramarka visits Andhra Ratna Bhavan
+  -> REVERSED: Mallu Bhatti Vikramarka visits Andhra Ratna Bhavan
+FOUND BROKEN TITLE (response.body): GVMC to relocate 448 water pipelines passing through drains
+  -> REVERSED: GVMC to relocate 448 water pipelines passing through drains
+FOUND BROKEN TITLE (response.body): Women to move from drudgery to decision-making in agriculture: Union Agriculture Secretary
+  -> REVERSED: Women to move from drudgery to decision-making in agriculture: Union Agriculture Secretary
+FOUND BROKEN TITLE (response.body): For many Telangana sweepers â¹2 lakh is annual salary
+  -> REVERSED: For many Telangana sweepers ₹2 lakh is annual salary
+FOUND BROKEN TITLE (response.body): CPI(M) is fighting both TMC and BJP in West Bengal: M.A. Baby
+  -> REVERSED: CPI(M) is fighting both TMC and BJP in West Bengal: M.A. Baby
+FOUND BROKEN TITLE (response.body): JD(S) is the only regional force fighting for Stateâs interests, says Nikhil
+  -> REVERSED: JD(S) is the only regional force fighting for State’s interests, says Nikhil
+FOUND BROKEN TITLE (response.body): Three workers faint at a private tannery unit in Tirupattur
+  -> REVERSED: Three workers faint at a private tannery unit in Tirupattur
+FOUND BROKEN TITLE (response.body): Tribal Affairs Ministry set to revamp forest rights cells, form âone-stopâ coordinating units
+  -> REVERSED: Tribal Affairs Ministry set to revamp forest rights cells, form ‘one-stop’ coordinating units
+FOUND BROKEN TITLE (response.body): Allahabad High Court grants interim protection to Swami Avimukteshwaranand in POCSO case
+  -> REVERSED: Allahabad High Court grants interim protection to Swami Avimukteshwaranand in POCSO case
+FOUND BROKEN TITLE (response.body): O. Panneerselvam: A man undone by his own decisions
+  -> REVERSED: O. Panneerselvam: A man undone by his own decisions
+FOUND BROKEN TITLE (response.body): PM Modi to launch nationwide HPV vaccination drive on February 28
+  -> REVERSED: PM Modi to launch nationwide HPV vaccination drive on February 28
+FOUND BROKEN TITLE (response.body): SC Collegium recommends Justice Lisa Gill as Chief Justice of A.P. High Court
+  -> REVERSED: SC Collegium recommends Justice Lisa Gill as Chief Justice of A.P. High Court
+FOUND BROKEN TITLE (response.body): Arvind Kejriwalâs court discharge a blow to Union government: Kerala Chief Minister
+  -> REVERSED: Arvind Kejriwal’s court discharge a blow to Union government: Kerala Chief Minister
+FOUND BROKEN TITLE (response.body): Restoration of Domakonda palace fuels weaving, literature and community life
+  -> REVERSED: Restoration of Domakonda palace fuels weaving, literature and community life
+FOUND BROKEN TITLE (response.body): Need to strike a balance, says Supreme Court on SHANTI Act petition
+  -> REVERSED: Need to strike a balance, says Supreme Court on SHANTI Act petition
+FOUND BROKEN TITLE (response.body): Climate change could restrict habitat availability for Western Ghats birds such as The Nilgiri Wood Pigeon, warn researchers
+  -> REVERSED: Climate change could restrict habitat availability for Western Ghats birds such as The Nilgiri Wood Pigeon, warn researchers
+FOUND BROKEN TITLE (response.body): Grey areas persist as key audit gaps surface in Hyderabad Metro PhaseâI buyout
+  -> REVERSED: Grey areas persist as key audit gaps surface in Hyderabad Metro Phase‑I buyout
+FOUND BROKEN TITLE (response.body): CPI(M) opposes land allotment to Adani for âGoogleâ Data Centre in Visakhapatnam
+  -> REVERSED: CPI(M) opposes land allotment to Adani for ‘Google’ Data Centre in Visakhapatnam
+FOUND BROKEN TITLE (response.body): Kalamassery municipality told to complete biomining at dumping yard in a time-bound manner
+  -> REVERSED: Kalamassery municipality told to complete biomining at dumping yard in a time-bound manner
+FOUND BROKEN TITLE (response.body): Didnât pay influencers to oppose AI Summit, says Congress
+  -> REVERSED: Didn’t pay influencers to oppose AI Summit, says Congress
+FOUND BROKEN TITLE (response.body): ASHA workers protest seeking honorarium hike and halt to retrenchment
+  -> REVERSED: ASHA workers protest seeking honorarium hike and halt to retrenchment
+FOUND BROKEN TITLE (response.body): Karnataka launches action plan on snakebite and rabies; aims to cut snakebite deaths by half, end dog-related rabies deaths by 2030
+  -> REVERSED: Karnataka launches action plan on snakebite and rabies; aims to cut snakebite deaths by half, end dog-related rabies deaths by 2030
+FOUND BROKEN TITLE (response.body): Apple farmers demand protection against import of fruits from U.S., to hold protest outside Parliament
+  -> REVERSED: Apple farmers demand protection against import of fruits from U.S., to hold protest outside Parliament
+FOUND BROKEN TITLE (response.body): Bicycle literacy campaign launched in womenâs college
+  -> REVERSED: Bicycle literacy campaign launched in women’s college
+FOUND BROKEN TITLE (response.body): Police book unknown motorcyclist for transporting explosives
+  -> REVERSED: Police book unknown motorcyclist for transporting explosives
+FOUND BROKEN TITLE (response.body): Habitual offender convicted for sexually assaulting 15-year-old boy
+  -> REVERSED: Habitual offender convicted for sexually assaulting 15-year-old boy
+FOUND BROKEN TITLE (response.body): Inflexible electricity grids causing âdangerousâ situations, says CEA chief
+  -> REVERSED: Inflexible electricity grids causing ‘dangerous’ situations, says CEA chief
+FOUND BROKEN TITLE (response.body): Innovative solutions presented at âAgri Rural Ideathon 2026â
+  -> REVERSED: Innovative solutions presented at ‘Agri Rural Ideathon 2026’
+FOUND BROKEN TITLE (response.body): Tollywood Celebrity Cricket League from February 28 in Vizag; entry free
+  -> REVERSED: Tollywood Celebrity Cricket League from February 28 in Vizag; entry free
+FOUND BROKEN TITLE (response.body): Stateâs first large-scale battery energy storage system to come up at Mylatti
+  -> REVERSED: State’s first large-scale battery energy storage system to come up at Mylatti
+FOUND BROKEN TITLE (response.body): Karnataka HC orders removal of storm-water drain encroachments at Mantri Tranquil and Royal Palms if they donât provide alternative course for drain
+  -> REVERSED: Karnataka HC orders removal of storm-water drain encroachments at Mantri Tranquil and Royal Palms if they don’t provide alternative course for drain
+FOUND BROKEN TITLE (response.body): Singareni likely to explore 19 BCM of coal-bed methane
+  -> REVERSED: Singareni likely to explore 19 BCM of coal-bed methane
+FOUND BROKEN TITLE (response.body): Return Social Science textbook, delete online posts, NCERT tells public
+  -> REVERSED: Return Social Science textbook, delete online posts, NCERT tells public
+FOUND BROKEN TITLE (response.body): On the occasion of birthday, BSY vows to tour the length and breadth of State
+  -> REVERSED: On the occasion of birthday, BSY vows to tour the length and breadth of State
+FOUND BROKEN TITLE (response.body): Telangana Chief Minister meets recently surrendered former Maoist leaders
+  -> REVERSED: Telangana Chief Minister meets recently surrendered former Maoist leaders
+FOUND BROKEN TITLE (response.body): Case against Medicover Hospital for ânegligenceâ after dialysis patient dies
+  -> REVERSED: Case against Medicover Hospital for ‘negligence’ after dialysis patient dies
+FOUND BROKEN TITLE (response.body): An intelligent and non-lethal solution to wildlife threat at âAgri Rural Ideathon 2026â
+  -> REVERSED: An intelligent and non-lethal solution to wildlife threat at ‘Agri Rural Ideathon 2026’
+FOUND BROKEN TITLE (response.body): Webinar to discuss federalism and the Indian Republic on March 1
+  -> REVERSED: Webinar to discuss federalism and the Indian Republic on March 1
+FOUND BROKEN TITLE (response.body): Tahsildars not adhering to timeline leading to flood of litigations in court: Karnataka HC
+  -> REVERSED: Tahsildars not adhering to timeline leading to flood of litigations in court: Karnataka HC
+FOUND BROKEN TITLE (response.body): Chellanam reeling under acute drinking water crisis
+  -> REVERSED: Chellanam reeling under acute drinking water crisis
+FOUND BROKEN TITLE (response.body): FIR against Mallikarjun Mutya challenged in High Court
+  -> REVERSED: FIR against Mallikarjun Mutya challenged in High Court
+FOUND BROKEN TITLE (response.body): Kishan Reddy flags delays in HMR phaseâII DPR, says ârhetoric wonât get permissionsâ
+  -> REVERSED: Kishan Reddy flags delays in HMR phase‑II DPR, says ‘rhetoric won’t get permissions’
+FOUND BROKEN TITLE (response.body): Little Flower Degree College to host district-level Viksit Bharat Youth Parliament on March 5
+  -> REVERSED: Little Flower Degree College to host district-level Viksit Bharat Youth Parliament on March 5
+FOUND BROKEN TITLE (response.body): Internal reservation likely to become a vexed issue in recruitment for 56,432 posts
+  -> REVERSED: Internal reservation likely to become a vexed issue in recruitment for 56,432 posts
+FOUND BROKEN TITLE (response.body): Woman killed, husband injured as speeding car hits them at Koothuparamba
+  -> REVERSED: Woman killed, husband injured as speeding car hits them at Koothuparamba
+FOUND BROKEN TITLE (response.body): CM directs MAUD dept. to leverage technology for timely completion of works
+  -> REVERSED: CM directs MAUD dept. to leverage technology for timely completion of works
+FOUND BROKEN TITLE (response.body): Andhra Pradesh, Telangana plan joint arrangements for Godavari Pushkarams
+  -> REVERSED: Andhra Pradesh, Telangana plan joint arrangements for Godavari Pushkarams
+FOUND BROKEN TITLE (response.body): Student bags bronze medal in Floristry
+  -> REVERSED: Student bags bronze medal in Floristry
+FOUND BROKEN TITLE (response.body): Independent panel sought to tackle ganja menace in A.P.
+  -> REVERSED: Independent panel sought to tackle ganja menace in A.P.
+FOUND BROKEN TITLE (response.body): Telangana launches âGI on Wheelsâ to showcase handicrafts on buses
+  -> REVERSED: Telangana launches ‘GI on Wheels’ to showcase handicrafts on buses
+FOUND BROKEN TITLE (response.body): Efforts on to re-enrol school dropouts from tribal communities in Wayanad
+  -> REVERSED: Efforts on to re-enrol school dropouts from tribal communities in Wayanad
+FOUND BROKEN TITLE (response.body): Govt.  challenges acquittal of Dileep, others  in actor rape case in HC
+  -> REVERSED: Govt.  challenges acquittal of Dileep, others  in actor rape case in HC
+FOUND BROKEN TITLE (response.body): Vizhinjam âseafood poisoningâ: searching for marine algal toxins in fish becoming an onerous task, say officials
+  -> REVERSED: Vizhinjam ‘seafood poisoning’: searching for marine algal toxins in fish becoming an onerous task, say officials
+FOUND BROKEN TITLE (response.body): Didnât give consent for closure of case, say Ayesha Meeraâs parents
+  -> REVERSED: Didn’t give consent for closure of case, say Ayesha Meera’s parents
+FOUND BROKEN TITLE (response.body): PG medical: Fourth round begins 
+  -> REVERSED: PG medical: Fourth round begins 
+FOUND BROKEN TITLE (response.body): Bangalore University decides to extend village adoption to all its departments
+  -> REVERSED: Bangalore University decides to extend village adoption to all its departments
+FOUND BROKEN TITLE (response.body): Agriculture requires community wisdom along with tech solutions, says KSOU V-C
+  -> REVERSED: Agriculture requires community wisdom along with tech solutions, says KSOU V-C
+FOUND BROKEN TITLE (response.body): Kerala CM PinarayiÂ Vijayan will lead LDFâs Assembly poll campaign in Kerala, confirms CPI(M) PB
+  -> REVERSED: Kerala CM Pinarayi Vijayan will lead LDF’s Assembly poll campaign in Kerala, confirms CPI(M) PB
+FOUND BROKEN TITLE (response.body): YSRCP leader alleges â¹100 crore land scam involving Collector, demands CBI inquiry
+  -> REVERSED: YSRCP leader alleges ₹100 crore land scam involving Collector, demands CBI inquiry
+FOUND BROKEN TITLE (response.body): Four arrested, including bank officials, for facilitating mule accounts in cyber fraud case
+  -> REVERSED: Four arrested, including bank officials, for facilitating mule accounts in cyber fraud case
+FOUND BROKEN TITLE (response.body): NCERT Class VIII textbook: Kerala Minister welcomes SC intervention over references to âcorruptionâ in judiciary
+  -> REVERSED: NCERT Class VIII textbook: Kerala Minister welcomes SC intervention over references to ‘corruption’ in judiciary
+FOUND BROKEN TITLE (response.body): Kumbalanghi panchayat Budget lays emphasis on housing project
+  -> REVERSED: Kumbalanghi panchayat Budget lays emphasis on housing project
+FOUND BROKEN TITLE (response.body): Arjun Pandian appointed Kasaragod Collector
+  -> REVERSED: Arjun Pandian appointed Kasaragod Collector
+FOUND BROKEN TITLE (response.body): NSS denies permission for security checks at Mannam Samadhi ahead of Vice-Presidentâs visit
+  -> REVERSED: NSS denies permission for security checks at Mannam Samadhi ahead of Vice-President’s visit
+FOUND BROKEN TITLE (response.body): HPV vaccination campaign to be launched on Feb. 28
+  -> REVERSED: HPV vaccination campaign to be launched on Feb. 28
+FOUND BROKEN TITLE (response.body): Tamil Nadu CM Stalin inaugurates Cuddalore-Madapattu section of State highway
+  -> REVERSED: Tamil Nadu CM Stalin inaugurates Cuddalore-Madapattu section of State highway

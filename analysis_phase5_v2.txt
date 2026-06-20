@@ -1,0 +1,34 @@
+Analyzing project_lbsnaa...                                     
+
+warning - The value of the field '_player' isn't used - lib\core\services\sound_service.dart:9:21 - unused_field
+warning - The value of the field '_levelUpSound' isn't used - lib\core\services\sound_service.dart:13:23 - unused_field
+warning - The value of the field '_buttonTapSound' isn't used - lib\core\services\sound_service.dart:14:23 - unused_field
+warning - The value of the field '_errorSound' isn't used - lib\core\services\sound_service.dart:15:23 - unused_field
+   info - Don't invoke 'print' in production code - lib\core\services\sound_service.dart:22:7 - avoid_print
+warning - Dead code - lib\core\services\sound_service.dart:24:41 - dead_code
+warning - The left operand can't be null, so the right operand is never executed - lib\core\services\sound_service.dart:24:44 - dead_null_aware_expression
+   info - Don't invoke 'print' in production code - lib\core\services\sound_service.dart:28:7 - avoid_print
+warning - Dead code - lib\core\services\sound_service.dart:36:42 - dead_code
+warning - The left operand can't be null, so the right operand is never executed - lib\core\services\sound_service.dart:36:45 - dead_null_aware_expression
+   info - Don't invoke 'print' in production code - lib\core\services\sound_service.dart:40:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\core\services\sound_service.dart:47:7 - avoid_print
+warning - Dead code - lib\core\services\sound_service.dart:48:41 - dead_code
+warning - The left operand can't be null, so the right operand is never executed - lib\core\services\sound_service.dart:48:44 - dead_null_aware_expression
+   info - Don't invoke 'print' in production code - lib\core\services\sound_service.dart:52:7 - avoid_print
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\ai_sensei\screens\answer_submission_screen.dart:98:56 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\ai_sensei\widgets\evaluation_result_widget.dart:31:53 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\ai_sensei\widgets\evaluation_result_widget.dart:31:83 - deprecated_member_use
+warning - The value of the field '_pulseAnimation' isn't used - lib\features\gamification\screens\home_dashboard.dart:24:26 - unused_field
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\home_dashboard.dart:162:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\home_dashboard.dart:228:53 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\home_dashboard.dart:231:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\home_dashboard.dart:282:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\home_dashboard.dart:284:54 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\squads\screens\squad_screen.dart:85:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\squads\screens\squad_screen.dart:111:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\squads\screens\squad_screen.dart:124:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\squads\screens\squad_screen.dart:216:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\squads\screens\squad_screen.dart:237:53 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\squads\screens\squad_screen.dart:276:66 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\squads\screens\squad_screen.dart:299:52 - deprecated_member_use
+

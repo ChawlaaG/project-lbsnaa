@@ -1,0 +1,7 @@
+Analyzing project_lbsnaa...                                     
+
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\home_dashboard.dart:267:52 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\features\gamification\screens\quiz_screen.dart:236:24 - curly_braces_in_flow_control_structures
+   info - Don't invoke 'print' in production code - lib\features\gamification\services\quiz_service.dart:55:7 - avoid_print
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\profile\screens\profile_screen.dart:147:54 - deprecated_member_use
+

@@ -1,0 +1,32 @@
+Analyzing project_lbsnaa...                                     
+
+   info - Don't invoke 'print' in production code - lib\core\services\seeding_service.dart:78:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\core\services\seeding_service.dart:80:7 - avoid_print
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\admin\screens\admin_content_screen.dart:158:59 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\home_dashboard.dart:207:73 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\home_dashboard.dart:267:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\main_menu_screen.dart:186:79 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\main_menu_screen.dart:189:54 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\main_menu_screen.dart:194:28 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\main_menu_screen.dart:279:43 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\gamification\screens\main_menu_screen.dart:294:21 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\gamification\screens\main_menu_screen.dart:298:20 - use_build_context_synchronously
+warning - The value of the field '_soundService' isn't used - lib\features\gamification\screens\prelims_dashboard.dart:22:22 - unused_field
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\prelims_dashboard.dart:101:36 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\prelims_dashboard.dart:181:29 - deprecated_member_use
+warning - The value of the field '_correctAnswers' isn't used - lib\features\gamification\screens\quiz_screen.dart:31:7 - unused_field
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\quiz_screen.dart:203:28 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\quiz_screen.dart:205:47 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\features\gamification\screens\quiz_screen.dart:237:24 - curly_braces_in_flow_control_structures
+   info - Don't invoke 'print' in production code - lib\features\gamification\services\quiz_service.dart:16:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\gamification\services\quiz_service.dart:56:7 - avoid_print
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\news\screens\news_screen.dart:90:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\profile\screens\profile_screen.dart:145:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\profile\screens\profile_screen.dart:147:54 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\features\profile\screens\profile_screen.dart:198:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\profile\screens\profile_screen.dart:270:43 - deprecated_member_use
+   info - 'swapAnimationDuration' is deprecated and shouldn't be used. Please use [duration] instead - lib\features\profile\screens\profile_screen.dart:293:13 - deprecated_member_use
+   info - 'swapAnimationCurve' is deprecated and shouldn't be used. Please use [curve] instead - lib\features\profile\screens\profile_screen.dart:294:13 - deprecated_member_use
+warning - The value of the local variable 'passedNow' isn't used - lib\features\syllabus_map\screens\topic_list_screen.dart:117:42 - unused_local_variable
+   info - The import of 'package:countries_world_map/data/maps/countries/india.dart' is unnecessary because all of the used elements are also provided by the import of 'package:countries_world_map/countries_world_map.dart' - lib\features\syllabus_map\widgets\syllabus_map_widget.dart:4:8 - unnecessary_import
+

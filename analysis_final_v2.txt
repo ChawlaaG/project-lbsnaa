@@ -1,0 +1,31 @@
+Analyzing project_lbsnaa...                                     
+
+   info - Don't invoke 'print' in production code - lib\core\services\sound_service.dart:25:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\core\services\sound_service.dart:31:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\core\services\sound_service.dart:43:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\core\services\sound_service.dart:50:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\core\services\sound_service.dart:55:7 - avoid_print
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\ai_sensei\screens\answer_submission_screen.dart:98:56 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\ai_sensei\widgets\evaluation_result_widget.dart:31:53 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\ai_sensei\widgets\evaluation_result_widget.dart:31:83 - deprecated_member_use
+   info - Don't invoke 'print' in production code - lib\features\ai_sensei\widgets\voice_sensei_widget.dart:44:28 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\ai_sensei\widgets\voice_sensei_widget.dart:45:27 - avoid_print
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\duel_screen.dart:171:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\home_dashboard.dart:178:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\home_dashboard.dart:250:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\home_dashboard.dart:289:53 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\home_dashboard.dart:292:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\home_dashboard.dart:343:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\gamification\screens\home_dashboard.dart:345:54 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\squads\screens\squad_screen.dart:87:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\squads\screens\squad_screen.dart:113:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\squads\screens\squad_screen.dart:126:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\squads\screens\squad_screen.dart:218:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\squads\screens\squad_screen.dart:242:53 - deprecated_member_use
+  error - Expected an identifier - lib\features\squads\screens\squad_screen.dart:313:11 - missing_identifier
+  error - Expected to find ')' - lib\features\squads\screens\squad_screen.dart:313:11 - expected_token
+  error - Expected to find ',' - lib\features\squads\screens\squad_screen.dart:313:11 - expected_token
+  error - Expected to find ')' - lib\features\squads\screens\squad_screen.dart:325:6 - expected_token
+  error - Expected to find ']' - lib\features\squads\screens\squad_screen.dart:325:6 - expected_token
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\syllabus_map\widgets\syllabus_map_widget.dart:146:27 - deprecated_member_use
+
